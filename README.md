@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # prueba3rails
+
+https://prueba3railsg10.herokuapp.com/
